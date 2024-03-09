@@ -11,7 +11,7 @@ Neste curso, você aprenderá sobre o ciclo de vida dos componentes no Angular. 
 
 - Hooks de Ciclo de Vida:
 
-  - Explore os principais hooks de ciclo de vida, como ngOnInit, ngOnDestroy, ngOnChanges, entre outros
+  - Explore os principais hooks de ciclo de vida, como ngOnInit, ngOnDestroy, e DoCheck
 
 - Implementação e Lógica:
 
